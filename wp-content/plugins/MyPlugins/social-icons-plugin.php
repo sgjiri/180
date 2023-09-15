@@ -5,7 +5,7 @@ Description: Affiche les profils de réseaux sociaux sous forme d'icônes.
 Version: 1.0
 Author: Votre Nom
 */
-
+//hello
 function register_social_icons_widget_area() {
     register_sidebar( array(
         'name'          => __( 'Zone des icônes sociales', 'social-icons-plugin' ),
